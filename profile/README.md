@@ -5,7 +5,7 @@
 ## 主要仓库
 
 - **[NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ)** —— 核心 monorepo（kernel / loader / adapter / network / media / cli / 脚手架）
-- **[NapukettoDev/koishi-plugin-adapter-napuketto](https://github.com/NapukettoDev/koishi-plugin-adapter-napuketto)** —— Koishi 适配器（已发布 npm）
+- **[NapukettoDev/Adapter-Koishi](https://github.com/NapukettoDev/Adapter-Koishi)** —— Koishi 适配器（已发布 npm）
 
 
 ## 许可证
